@@ -3,7 +3,7 @@ ToDo list portable app, uses jQuery, BS, HTML, CSS and localStorage
 
 # DEMO
 
-[See demo](http://jquerytodolist.13signs.pl)
+[See demo](http://todolistjquery.13signs.pl)
 
 # INSTALLATION
 
